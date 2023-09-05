@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113593081339",
+    "project_id": "golden-chat-e9c54",
+    "storage_bucket": "golden-chat-e9c54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113593081339:android:6e9a0b70b0b0bd4b617f5e",
+        "android_client_info": {
+          "package_name": "com.example.golden_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113593081339-1dim1bnncb65nci18cs2fo7r3ejoee69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXk_pFktSoL2NxUx7myOPweb2ZQug_V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113593081339-1dim1bnncb65nci18cs2fo7r3ejoee69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
